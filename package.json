@@ -1,6 +1,7 @@
 {
-  "name": "stackblitz-starters-nnzpma",
+  "name": "select-webcam",
   "version": "0.0.0",
+  "homepage": "https://sinkaryogita.github.io/select-webcam",
   "private": true,
   "dependencies": {
     "react": "18.2.0",
@@ -9,10 +10,13 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-scripts": "latest"
   }
 }
