@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/select-webcam/static/css/main.bbec3e53.css",
-    "main.js": "/select-webcam/static/js/main.92a63c16.js",
+    "main.js": "/select-webcam/static/js/main.4009d907.js",
     "index.html": "/select-webcam/index.html",
     "main.bbec3e53.css.map": "/select-webcam/static/css/main.bbec3e53.css.map",
-    "main.92a63c16.js.map": "/select-webcam/static/js/main.92a63c16.js.map"
+    "main.4009d907.js.map": "/select-webcam/static/js/main.4009d907.js.map"
   },
   "entrypoints": [
     "static/css/main.bbec3e53.css",
-    "static/js/main.92a63c16.js"
+    "static/js/main.4009d907.js"
   ]
 }
