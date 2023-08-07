@@ -62,7 +62,7 @@ const Webcam = () => {
   };
 
   return (
-    <div style={{ maxWidth: '700px' }}>
+    <div style={{ maxWidth: '300px' }}>
       {cameraDevices.length > 0 ? (
         <div>
           <h3>Face Liveliness Comp</h3>
