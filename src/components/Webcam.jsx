@@ -89,11 +89,11 @@ const Webcam = () => {
       ) : (
         <div>
           <h3>Instructions page </h3>
-          <p> A default front camera will open when you click on start.</p>
+          <p>System's default user-facing camera will open when you click on start.</p>
           <p>
-            You will also see a dropdown to choose a different camera if
-            multiple camera's are identified.
+            You will also see a dropdown that lists all the available camera's identified in the system.
           </p>
+          <p>You can opt for the camera of your preference from the list.</p>
           <button onClick={() => startCamera()}>Start</button>
         </div>
       )}
